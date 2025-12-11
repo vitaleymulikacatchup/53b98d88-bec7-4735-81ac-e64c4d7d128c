@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
@@ -174,7 +174,6 @@ export default function LandingPage() {
             }
           ]}
           containerStyle="default"
-          gridVariant="four-items-2x2-equal-grid"
         />
       </div>
 
